@@ -1,0 +1,958 @@
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\EncryptString.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\FileEncrypt.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+O:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DatabaseBackup.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DataImport.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+O:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+O:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+O:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DatabaseBackup.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DataImport.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+O:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DatabaseBackup.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DataImport.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+I:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DatabaseBackup.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DataImport.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DatabaseBackup.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Database.DataImport.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+O:\__\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+E:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+E:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+F:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+G:\CASH DESK FINAL\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+C:\Users\Learnuel Tech\Desktop\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+J:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+J:\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\EncryptString.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\FileEncrypt.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csprojResolveAssemblyReference.cache
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutUsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivationPanel.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ActivityForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Add_Items.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogOut.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AdminLogs.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllExpenses.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AllTallerPaymentForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ClearedPayments.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ControlSettings.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CreateClass.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Credit_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CustomMsgBox.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DailyPaySearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Daily_Sales_Report.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DebtorsList.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.DueActivationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventDebtRecord.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayRecord.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Fees_Set.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForgotPassword.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EventPayForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AddStudentsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetSessionForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ExpenseForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.setFeesForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GenerateForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.How_to_Report_Daily_Sales.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.how_to_Update_items.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Infor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.InforDebt.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Make_Sale.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoreAbout.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Payment.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PayRecordsForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PrintDialog.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PromoteStudents.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReceiptView.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RegistrationForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ReportSearchInfor.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report_From_SalesForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.RestPassword.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SalesStock.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Sales_With_Student_Names.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SecurityQuestions.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TallerForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayExpenses.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayIncome.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TodayPayRecords.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Today_Sales_Record.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TotalDailyIncome.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Update_Students.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UpdateFeesForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewTallerForm.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ViewUser.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.What_Is_Report.resources
+C:\Users\Learnuel Tech\Desktop\PROJECTS\CashDesk Edited2020\CASH DESK FINAL\WindowsFormsApplication1\obj\x86\Debug\Cash Desk.csproj.GenerateResource.Cache
